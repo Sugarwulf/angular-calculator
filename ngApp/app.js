@@ -1,0 +1,5 @@
+var angCalc;
+(function (angCalc) {
+    angular.module("angCalc", []);
+})(angCalc || (angCalc = {}));
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXBwLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiYXBwLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLElBQVUsT0FBTyxDQUVoQjtBQUZELFdBQVUsT0FBTztJQUNmLE9BQU8sQ0FBQyxNQUFNLENBQUMsU0FBUyxFQUFFLEVBQUUsQ0FBQyxDQUFDO0FBQ2hDLENBQUMsRUFGUyxPQUFPLEtBQVAsT0FBTyxRQUVoQiIsInNvdXJjZXNDb250ZW50IjpbIm5hbWVzcGFjZSBhbmdDYWxjIHtcbiAgYW5ndWxhci5tb2R1bGUoXCJhbmdDYWxjXCIsIFtdKTtcbn1cbiJdfQ==
